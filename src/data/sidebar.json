@@ -1,0 +1,23 @@
+[
+  {
+    "title":"General",
+    "icon":"bi-gear-fill",
+    "childrens":[
+      {
+        "title":"Home",
+        "icon":"bi-house-fill",
+        "path":"/"
+      },
+      {
+        "title":"About",
+        "icon":"bi-house-fill",
+        "path":"/about"
+      }
+    ]
+  },
+  {
+    "title":"Profile",
+    "icon":"bi-gear-fill",
+    "path":"/profile"
+  }
+]
